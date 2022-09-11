@@ -1,5 +1,2 @@
-## 一个基于vite创建项目模板的脚手架
-
-- vaeian -- help
+## 一个创建项目模板的脚手架
 - vaeian create xxx
-- vaeian addcpn xxx -d src/components
